@@ -1,4 +1,4 @@
-# Changer de banque
+### Changer de banque
 
 L’investissement de nos banques a un impact sur la planète puisque certaines investissent dans des projets liés aux énergies fossiles.
 
