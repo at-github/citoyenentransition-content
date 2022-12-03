@@ -19,25 +19,29 @@ nous remplissent d’espoirs &amp; d’intelligences.
 
 Différents exemples juste en dessous, régalez-vous !
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/f-sRcVkZ9yg"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen="">
-</iframe>
+<div class="iframe-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/f-sRcVkZ9yg"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen="">
+  </iframe>
+</div>
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/-8nqnOcoLqE"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen="">
-</iframe>
+<div class="iframe-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/-8nqnOcoLqE"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen="">
+  </iframe>
+</div>
 
 Qu’en pensez-vous ? Et si ça passait à la TV ?
 
