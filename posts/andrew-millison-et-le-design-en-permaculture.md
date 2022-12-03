@@ -1,8 +1,7 @@
 ### Andrew Millison et le design en permaculture
 
 Professeur et concepteur en permaculture,
- Andrew Millison partage sur sa
-[chaine youtube](https://www.youtube.com/c/amillison/featured)
+Andrew Millison partage sur sa [chaine youtube](https://www.youtube.com/c/amillison/featured)
 des trésors de projets, particulièrement en Inde,
 mais aussi des petits cours aux formats exceptionnels.
 
