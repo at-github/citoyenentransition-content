@@ -23,15 +23,17 @@ enfin ces rayons rebondissent une dernière fois sur les fourneaux.
 
 La chaleur produite peut atteindre les 400°C en quelques minutes, génial !
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/FfT5Yvc9VRM"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen="">
-</iframe>
+<div class="iframe-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/FfT5Yvc9VRM"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen="">
+  </iframe>
+</div>
 
 Actuellement le présage anime une guiguette,
 sorte de *mise en bouche du restaurant qui s’installera sur le terrain du futur restaurant,
