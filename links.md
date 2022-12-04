@@ -1,4 +1,4 @@
-#### Vidéos
+### Vidéos
 
 - [Gunter Pauli] (https://www.youtube.com/watch?v=2IEPYq4Odzg "L’économie bleue")
 - [Damien Dekarz] (https://www.youtube.com/c/permacultureetc "Permaculture")
@@ -6,7 +6,7 @@
 - [L’archipelle] (https://www.youtube.com/c/LArchiPelle "Autonomie")
 - [Heu?reka] (https://www.youtube.com/c/HeurekaFinanceEco "Économie & finance vulgarisées")
 
-#### [Licoornes](https://www.licoornes.coop "Groupement de coopératives pour fournir des alternatives plus saines à notre consommation")
+### [Licoornes](https://www.licoornes.coop "Groupement de coopératives pour fournir des alternatives plus saines à notre consommation")
 - [enercoop] (https://www.enercoop.fr "Fournisseur d’énergie")
 - [Telecoop] (https://telecoop.fr "Opérateur télécom")
 - [mobicoop] (https://www.mobicoop.fr/ "Covoiturage")
@@ -17,12 +17,12 @@
 - [railcoop] (https://www.railcoop.fr "Opérateur ferroviaire")
 - [labelemmaus] (https://www.label-emmaus.co/fr "E-commerce économie sociale")
 
-#### Bricolage
+### Bricolage
 
 - [PaulyGones](https://www.youtube.com/@Paulygones/videos "Superbes vidéos de bricolage")
 - [Repair Café](https://www.repaircafe.org/fr/ "Réseau de café pour réparer nos bouzins")
 
-#### Autre
+### Autre
 
 - [Jobs - make sense] (https://jobs.makesense.org/ "Trouver un job qui a du sens")
 - [Poiscaille] (https://poiscaille.fr "Le casier de la mer")
