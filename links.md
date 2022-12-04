@@ -24,6 +24,7 @@
 
 #### Autre
 
+- [Jobs - make sense] (https://jobs.makesense.org/ "Trouver un job qui a du sens")
 - [Poiscaille] (https://poiscaille.fr "Le casier de la mer")
 - [Lufa] (https://montreal.lufa.com/fr "Fermes urbaine")
 - [Lebioenvrac] (https://lebioenvrac.fr "La plus belle épicerie de la terre")
