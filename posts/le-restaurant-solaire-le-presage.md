@@ -1,4 +1,4 @@
-## Le restaurant solaire le presage
+# Le restaurant solaire le presage
 
 Imaginez un restaurant dont les fourneaux fonctionnent au solaire.
 Imaginez qu’en plus, les produits sont locaux, de saison, cuisinés avec talents.
