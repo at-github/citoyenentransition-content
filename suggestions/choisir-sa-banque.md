@@ -1,20 +1,20 @@
 # Choisir sa banque
 
 ## Pourquoi un compte bancaire est quasi obligatoire
-On présente souvent le fait d'avoir un compte bancaire comme un droit *[droit au compte](https://www.service-public.fr/particuliers/actualites/A15560)*,
-et non une obligation (une devoir), puisqu'aucune loi ne va dans ce sens.
-Il garantit notamment à une personne interdit bancaire de pouvoir ouvrir un compte,
+On présente souvent le fait d'avoir un compte bancaire comme un droit : *[droit au compte](https://www.service-public.fr/particuliers/actualites/A15560)*,
+et non une obligation (un devoir), puisqu'aucune loi ne va dans ce sens.
+Il garantit notamment à une personne *interdit bancaire* de pouvoir ouvrir un compte,
 en envoyant une des lettres de refus à la [Banque de France](https://fr.wikipedia.org/wiki/Banque_de_France), celle-ci créditera l'une des banques.
 
 ### Sans compte, ce qui n'est pas autorisé
 
 - Toucher un salaire de plus 1500 €
-- Payer en liquide un commerçant au delà de 3000 €
+- Payer en liquide un commerçant au-delà de 3000 €
 - Obtenir des aides comme la CAF, la Sécurité Sociale (elles n'auraient pas de trésorerie en liquide)
 
 [Source](https://www.capitaine-banque.com/actualite-banque/posseder-un-compte-bancaire-est-il-obligatoire/)
 
-## Comment les banques gagnent elles de l'argent sur les comptes courants
+## Comment les banques gagnent-elles de l'argent sur les comptes courants
 
 (Ici nous ne parlons que des [banques de détails](https://fr.wikipedia.org/wiki/Banque_de_d%C3%A9tail)).
 
@@ -33,12 +33,12 @@ Via des services payants que nous connaissons bien :
 [tarifs-bancaires.gouv.fr](https://www.tarifs-bancaires.gouv.fr/)
 mais pas que :
 
-Les banques ne gardent pas tout l'argent dans un coffre fort.
+Les banques ne gardent pas tout l'argent dans un coffre-fort.
 Elles le *font travailler* en prêtant aux particuliers (crédit à la consommation, crédit immobilier) et aux entreprises moyennant rémunération (les intérêts).
 Elles utilisent ces fonds pour *financer l’activité économique* en prêtant aux divers acteurs contre le paiement d’intérêts.
-Une banque a donc besoin de liquidités, en gardant un maximum de confiance au près de ses clients pour éviter un *[bank run](https://fr.wikipedia.org/wiki/Panique_bancaire)*.
+Une banque a donc besoin de liquidités, en gardant un maximum de confiance auprès de ses clients pour éviter un *[bank run](https://fr.wikipedia.org/wiki/Panique_bancaire)*.
 
-D'où tirent elles ces liquidités ? En puisant dans les dépôts ou en empruntant auprès d’autres banques ou des [marchés financiers](https://fr.wikipedia.org/wiki/March%C3%A9_financier).
+D'où tirent-elles ces liquidités ? En puisant dans les dépôts ou en empruntant auprès d’autres banques ou des [marchés financiers](https://fr.wikipedia.org/wiki/March%C3%A9_financier).
 Si l’argent ne circule pas, alors le système se grippe.
 
 <div class="iframe-container">
@@ -81,7 +81,7 @@ le charbon, le pétrole et le gaz.
 [Bombes climatiques» : BNP Paribas mise en demeure par des ONG pour son financement de nouveaux projets pétro-gaziers](https://www.liberation.fr/environnement/ong-bnp-paribas-mise-en-demeure-pour-son-financement-de-nouveaux-projets-petro-gaziers-20221026_PAZ5V5JX7VDGLKNEET5UHANRQ4/)
 [La Société générale accusée de vouloir larguer une « bombe climatique » en Australie](https://multinationales.org/fr/actualites/la-societe-generale-accusee-de-vouloir-larguer-une-bombe-climatique-en)
 
-Hors certains organismes comme les [amis de la terre](https://www.amisdelaterre.org/wp-content/uploads/2015/06/20150603-guidebanque2014.pdf), [oxfam](https://www.oxfamfrance.org/wp-content/uploads/2019/06/NotationBanquesF_climat_5juin2019.pdf), [colibris-lemouvement](https://www.colibris-lemouvement.org/passer-a-laction/agir-quotidien/changer-banque) classent, conseillent ou informent sur des banques alternatives en fonction de leur impacts.
+Hors certains organismes comme les [amis de la terre](https://www.amisdelaterre.org/wp-content/uploads/2015/06/20150603-guidebanque2014.pdf), [oxfam](https://www.oxfamfrance.org/wp-content/uploads/2019/06/NotationBanquesF_climat_5juin2019.pdf), [colibris-lemouvement](https://www.colibris-lemouvement.org/passer-a-laction/agir-quotidien/changer-banque) classent, conseillent ou informent sur des banques alternatives en fonction de leurs impacts.
 
 ## Pourtant quelques banques se démarquent
 
@@ -106,7 +106,7 @@ en émettant 4 fois moins de C0² que les banques françaises traditionnelles
 
 La banque publie [la liste complète de ses financements](https://www.lanef.com/qui-sommes-nous/la-transparence-des-financements/).
 
-2 solution d'épargnes, un livret et un compte à terme.
+2 solutions d'épargnes, un livret et un compte à terme.
 En prenant un livret vous pouvez choisir soit :
 - de faire un don de tout ou partie des intérêts à une des associations partenaires
 - de minorer la rémunération de l'épargne ce qui impacte le taux d'emprunt proposé.
@@ -142,7 +142,7 @@ et encore d'autres.
 
 <img src="https://www.aera.vc/wp-content/uploads/2022/08/Green-Got_Logo_dgreen-e1661805299888.png" class="small-banner"/>
 
-Pour commencer c'est un *prestataire de paiement*, sans proposition de crédit pour l'instant (ça serait en cours), il ne sont pas autorisé à utiliser le terme *banque*.
+Pour commencer c'est un *prestataire de paiement*, sans proposition de crédit pour l'instant (ça serait en cours), ils ne sont pas autorisé à utiliser le terme *banque*.
 
 Néanmoins Green Got, société indépendante, a une communication très engagée en écologie.
 Elle propose de suivre les émissions de CO² des dépenses directement dans leur application.
@@ -151,7 +151,7 @@ qui récupère les déchets en mer et les traite,
 mais aussi celui du développement de l'énergie éolienne en Turquie et de l'énergie solaire en Inde.
 
 
-Côté produits, Green Got c'est un *compte courant* & un *compte épargne*.
+Côtés produits, Green Got c'est un *compte courant* & un *compte épargne*.
 
 [Le lien vers Green Got](https://green-got.com/)
 
