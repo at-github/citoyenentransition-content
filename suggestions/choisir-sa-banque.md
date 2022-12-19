@@ -1,13 +1,5 @@
 # Choisir sa banque
 
-<!-- TODO Découper cette phrase en :
-[X] Pourquoi nous avons besoin d'une banque
-[X] Expliquer ce que les banques font de notre argent en compte courant
-[X] Détailler les investissements des pires banques françaises
-[ ] Si possible des schémas et infographies
-[X] Présenter 3 banques françaises éthiques
-[X] Juger si je garde la partie *Notre expérience*
--->
 ## Pourquoi un compte bancaire est quasi obligatoire
 On présente souvent le fait d'avoir un compte bancaire comme un droit *[droit au compte](https://www.service-public.fr/particuliers/actualites/A15560)*,
 et non une obligation (une devoir), puisqu'aucune loi ne va dans ce sens.
@@ -49,6 +41,18 @@ Une banque a donc besoin de liquidités, en gardant un maximum de confiance au p
 D'où tirent elles ces liquidités ? En puisant dans les dépôts ou en empruntant auprès d’autres banques ou des [marchés financiers](https://fr.wikipedia.org/wiki/March%C3%A9_financier).
 Si l’argent ne circule pas, alors le système se grippe.
 
+<div class="iframe-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/NKYBz-E_g9U"
+    title="Le double visage de l'argent - Heu?reka #7"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 [Source](https://www.comparateurbanque.com/guides/que-devient-notre-argent-une-fois-que-nous-le-mettons-sur-notre-compte-en-banque/)
 
 ## Les investissements des banques françaises
@@ -59,6 +63,10 @@ Ce chiffre, édifiant, est le résultat de l’étude menée par Oxfam France et
 
 Les trois premières banques françaises (BNP Paribas, Crédit Agricole et Société Générale)
 ont même chacune **une empreinte carbone supérieure à celle du territoire français !**
+
+|![Intensité carbone, en tonnes équivalent de co² / million d'euros](https://raw.githubusercontent.com/at-github/citoyenentransition-content/master/img/Intensit%C3%A9%20carbone%20en%20tonnes%20%C3%A9quivalent%20de%20co2%20par%20million%20deuros.png)|
+|:--:|
+|Intensité carbone, en tonnes équivalent de co² / million d'euros|
 
 Si les émissions de gaz à effet de serre des banques sont aussi considérables,
 c’est parce qu’encore aujourd’hui, les banques investissent massivement dans les industries polluantes et dépendent notamment largement des énergies fossiles.
@@ -87,7 +95,9 @@ ces classements ayant pour certain plus de 10 ans.
 - le Crédit coopératif
 - et Green Got
 
-### la Nef
+### La Nef
+
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo-La_Nef_2021.svg/1920px-Logo-La_Nef_2021.svg.png?20211101224955" class="small-banner" />
 
 C'est une coopérative (faisant partie du groupement de coopératives les [licoornes](https://www.licoornes.coop/))
 de finance solidaire, agrée [ESUS](https://www.economie.gouv.fr/entreprises/agrement-entreprise-solidaire-utilite-sociale-ess).
@@ -108,7 +118,9 @@ C'est aussi des prêts aux particuliers et du financement participatif (*crowdfu
 
 [Le lien vers la Nef](https://www.lanef.com/)
 
-### le crédit coopératif
+### Le crédit coopératif
+
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Logo_Cr%C3%A9dit_Coop%C3%A9ratif.svg/1920px-Logo_Cr%C3%A9dit_Coop%C3%A9ratif.svg.png?20110411193919" class="small-banner"/>
 
 Également une coopérative, elle est associée à de nombreux partenaires, dont [Terre de liens](https://terredeliens.org/) & [WWF](https://www.wwf.fr/).
 
@@ -127,6 +139,9 @@ et encore d'autres.
 [Le lien vers le crédit coopératif](https://www.credit-cooperatif.coop/)
 
 ### Green Got
+
+<img src="https://www.aera.vc/wp-content/uploads/2022/08/Green-Got_Logo_dgreen-e1661805299888.png" class="small-banner"/>
+
 Pour commencer c'est un *prestataire de paiement*, sans proposition de crédit pour l'instant (ça serait en cours), il ne sont pas autorisé à utiliser le terme *banque*.
 
 Néanmoins Green Got, société indépendante, a une communication très engagée en écologie.
