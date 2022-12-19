@@ -9,6 +9,7 @@
 ### [Licoornes](https://www.licoornes.coop "Groupement de coopératives pour fournir des alternatives plus saines à notre consommation")
 - [enercoop] (https://www.enercoop.fr "Fournisseur d’énergie")
 - [Telecoop] (https://telecoop.fr "Opérateur télécom")
+  - [Lien de parrainage] (https://souscription.telecoop.fr/?cr=N4D3QZFHF "Avec le code : N4D3QZFHF")
 - [mobicoop] (https://www.mobicoop.fr/ "Covoiturage")
 - [Commown] (https://commown.coop "Fournisseur d’appareils électroniques")
 - [coop circuits] (https://www.coopcircuits.fr "Course alimentaire")
