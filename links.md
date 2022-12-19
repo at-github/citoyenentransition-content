@@ -12,7 +12,6 @@
 - [mobicoop] (https://www.mobicoop.fr/ "Covoiturage")
 - [Commown] (https://commown.coop "Fournisseur d’appareils électroniques")
 - [coop circuits] (https://www.coopcircuits.fr "Course alimentaire")
-- [la Nef] (https://www.coopcircuits.fr "Banque")
 - [citiz] (https://citiz.coop "Location de voiture")
 - [railcoop] (https://www.railcoop.fr "Opérateur ferroviaire")
 - [labelemmaus] (https://www.label-emmaus.co/fr "E-commerce économie sociale")
@@ -21,6 +20,11 @@
 
 - [PaulyGones](https://www.youtube.com/@Paulygones/videos "Superbes vidéos de bricolage")
 - [Repair Café](https://www.repaircafe.org/fr/ "Réseau de café pour réparer nos bouzins")
+
+### Banques
+- [Crédit coopératif](https://www.credit-cooperatif.coop/ "Banque, pour la durabilité des territoires")
+- [Green Got](https://green-got.com/ "Presque une banque, (pas de crédit pas de droit à la dénomination 'banque') verte")
+- [la Nef] (https://www.coopcircuits.fr "Banque, épargne solidaire, investissement et emprunt")
 
 ### Autre
 
