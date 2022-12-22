@@ -1,8 +1,6 @@
 ### Vidéos
 
 - [Gunter Pauli] (https://www.youtube.com/watch?v=2IEPYq4Odzg "L’économie bleue")
-- [Damien Dekarz] (https://www.youtube.com/c/permacultureetc "Permaculture")
-- [Andrew Millison](https://www.youtube.com/c/amillison "Permaculture")
 - [L’archipelle] (https://www.youtube.com/c/LArchiPelle "Autonomie")
 - [Heu?reka] (https://www.youtube.com/c/HeurekaFinanceEco "Économie & finance vulgarisées")
 
@@ -16,6 +14,12 @@
 - [citiz] (https://citiz.coop "Location de voiture")
 - [railcoop] (https://www.railcoop.fr "Opérateur ferroviaire")
 - [labelemmaus] (https://www.label-emmaus.co/fr "E-commerce économie sociale")
+
+### Autour de la terre
+
+- [Andrew Millison](https://www.youtube.com/c/amillison "Permaculture")
+- [Damien Dekarz] (https://www.youtube.com/c/permacultureetc "Permaculture")
+- [Le ptit jardinier](https://www.facebook.com/LeptiitJardinier "Superbes partages de connaissances sur la nature")
 
 ### Bricolage
 
