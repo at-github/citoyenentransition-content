@@ -31,7 +31,6 @@
 
 - [Jobs - make sense] (https://jobs.makesense.org/ "Trouver un job qui a du sens")
 - [Poiscaille] (https://poiscaille.fr "Le casier de la mer")
-- [Lufa] (https://montreal.lufa.com/fr "Fermes urbaine")
 - [Lebioenvrac] (https://lebioenvrac.fr "La plus belle épicerie de la terre")
 - [Solar brother] (https://www.solarbrother.com "Solutions solaires")
 - [Fairphone](https://www.fairphone.com/fr "Un smartphone utraréparable qui essaye d'avoir le moins de sang possible sur l'écran")
