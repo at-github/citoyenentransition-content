@@ -2,7 +2,8 @@ Après avoir croisé quelques nouvelles préoccupantes, nous avons décidé de, 
 L'idee est de transformer un probleme en opportunité.
 
 TODO trouver ces fameuses nouvelles
-
+https://youtu.be/FC2qw9MQn0c
+En Loire-Atlantique, l'eau potable est contaminée par un pesticide pourtant interdit depuis 2020 | L'Hebdo de Sèvre et Maine https://actu.fr/pays-de-la-loire/basse-goulaine_44009/en-loire-atlantique-leau-potable-est-contaminee-par-un-pesticide-pourtant-interdit-depuis-2020_58727020.html
 Initialement prévu dans un plus grand projet, d'acquérir une maison et d'y boire un maximum l'eau de pluie.
 Mais dans le logement que nous occupons actuellement, entre le goût de chlore par intermittence et l'inquiétude d'une eau mal gérée, l'envie de filtrer nous même l'eau se fait pressente.
 
