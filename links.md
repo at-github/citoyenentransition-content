@@ -6,6 +6,7 @@
 
 ### [Licoornes](https://www.licoornes.coop "Groupement de coopératives pour fournir des alternatives plus saines à notre consommation")
 - [enercoop] (https://www.enercoop.fr "Fournisseur d’énergie")
+  - [Lien de parrainage] (https://souscription.enercoop.fr/code/PARRAIN_TYkgA "Avec le code : PARRAIN_TYkgA")
 - [Telecoop] (https://telecoop.fr "Opérateur télécom")
   - [Lien de parrainage] (https://souscription.telecoop.fr/?cr=N4D3QZFHF "Avec le code : N4D3QZFHF")
 - [mobicoop] (https://www.mobicoop.fr/ "Covoiturage")
